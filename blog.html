@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Blog • Portfolio</title>
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand"><a href="index.html">Your Name</a></div>
+    <nav class="nav">
+      <a href="index.html">Home</a>
+      <a href="projects.html">Projects</a>
+      <a href="blog.html">Blog</a>
+      <a href="experience.html">Experience</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+    <div class="socials" id="social-links"></div>
+  </header>
+
+  <main>
+    <section class="controls">
+      <input id="search" placeholder="Search posts..." aria-label="Search posts" />
+      <div id="tags" class="tags" aria-hidden="false"></div>
+    </section>
+
+    <section class="project-list">
+      <div id="posts-grid" class="grid-3"></div>
+    </section>
+  </main>
+
+  <div id="overlay" class="overlay hidden">
+    <div class="overlay-inner">
+      <button id="close-overlay" aria-label="Close">✕</button>
+      <div id="overlay-content"></div>
+    </div>
+  </div>
+
+  <script src="assets/js/main.js"></script>
+</body>
+</html>

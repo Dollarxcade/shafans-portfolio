@@ -1,0 +1,29 @@
+[
+  {
+    "id": "project-1",
+    "title": "Portfolio Website",
+    "date": "2025-12-18",
+    "tags": ["web","frontend"],
+    "previewImage": "assets/images/project1-thumb.svg",
+    "headerImage": "assets/images/project1-header.svg",
+    "descriptionHtml": "<p>A responsive portfolio built with a dark theme and purple accents. Features a projects grid, filters, and expanding overlays. Includes animations and is easy to update via JSON.</p><img src=\"assets/images/project1-detail.svg\" alt=\"detail\" />"
+  },
+  {
+    "id": "project-2",
+    "title": "Indie Game Prototype",
+    "date": "2025-10-02",
+    "tags": ["game","design"],
+    "previewImage": "assets/images/project2-thumb.svg",
+    "headerImage": "assets/images/project2-header.svg",
+    "descriptionHtml": "<p>A small game prototype made with encouragement for playful mechanics and crisp visuals. I worked on mechanics and UI polish.</p><img src=\"assets/images/project2-detail.svg\" alt=\"game detail\"/>"
+  },
+  {
+    "id": "project-3",
+    "title": "Design System",
+    "date": "2024-07-20",
+    "tags": ["design","system"],
+    "previewImage": "assets/images/project3-thumb.svg",
+    "headerImage": "assets/images/project3-header.svg",
+    "descriptionHtml": "<p>Design system for a SaaS product with reusable components, tokens, and documentation.</p>"
+  }
+]

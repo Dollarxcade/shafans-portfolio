@@ -1,0 +1,20 @@
+[
+  {
+    "id": "post-1",
+    "title": "Favorite UI Microinteractions",
+    "date": "2025-11-10",
+    "tags": ["ui","design"],
+    "previewImage": "assets/images/blog1-thumb.svg",
+    "headerImage": "assets/images/blog1-header.svg",
+    "descriptionHtml": "<p>I love subtle microinteractions — they convey personality and polish. In this post I explore a few examples and how to implement them simply.</p>"
+  },
+  {
+    "id": "post-2",
+    "title": "Weekend Game Jam Highlights",
+    "date": "2025-09-03",
+    "tags": ["game","personal"],
+    "previewImage": "assets/images/blog2-thumb.svg",
+    "headerImage": "assets/images/blog2-header.svg",
+    "descriptionHtml": "<p>Recap of a 48-hour jam where I built an arcade-style prototype — fun and educational.</p>"
+  }
+]
